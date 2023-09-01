@@ -1,0 +1,8 @@
+.filter-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: black;
+    border-radius: 10px;
+    min-height: 150px;
+}
